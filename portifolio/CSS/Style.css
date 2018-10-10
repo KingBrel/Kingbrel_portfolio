@@ -1,0 +1,134 @@
+header{
+	margin-left: 430px;
+	font-size: 55px;
+	/*background-color: #6A8FDE*/;/*#6A8FDE*/
+	color: gold;
+	font-family: fantasy;
+	font-style: oblique;
+	font-variant: initial;
+	margin-bottom: 40px;
+	border-color: black;
+	padding-top: 40px;
+}
+#cor{
+	background-color: #6A8FDE;
+	padding-top: 5px;
+	padding-bottom: 100px;
+	margin-top: -10px;
+}
+#maisProj{
+	/*border: 5px solid white;*/
+	font-size: 30px;
+	font-family: fantasy;
+	font-style: oblique;
+	font-variant: initial;
+	color: gold;
+	margin-top: 20px;
+	height: 50px;
+	width: 200px;
+	clear: both;
+	margin-left: 550px;
+	margin-bottom: 50PX;
+
+}
+#exe1{
+	border: 5px solid white;
+	height: 700px;
+	width: 330px;
+	margin-left: 5px;
+	font-size: 30px;
+	font-family: fantasy;
+	font-style: oblique;
+	font-variant: initial;
+	color: white;
+	padding-left: 80px;
+	padding-right: -120px;
+	float: right;
+	margin-top: 10px;
+	margin-bottom: 50PX;
+	
+}
+#exe2{
+	border: 5px solid white;
+	height: 700px;
+	width: 330px;
+	margin-right: 25px;
+	font-size: 30px;
+	font-family: fantasy;
+	font-style: oblique;
+	font-variant: initial;
+	color: white;
+	padding-left: 80px;
+	padding-right: -120px;
+	float: right;
+	margin-top: 10px;
+	margin-bottom: 50PX;
+	margin-left: 5px;
+}
+#exe3{
+	border: 5px solid white;
+	height: 700px;
+	width: 330px;
+	float: left;
+	font-size: 30px;
+	font-family: fantasy;
+	font-style: oblique;
+	font-variant: initial;
+	color: white;
+	padding-left: 80px;
+	padding-right: -120px;
+	margin-top: 10px;
+	margin-bottom: 50PX;
+	margin-left: 0px;
+	margin-right: -10px;
+}
+/*#exeM{}*/
+#rodape{
+	border: 5px solid white;
+	font-size: 30px;
+	font-family: fantasy;
+	font-style: oblique;
+	font-variant: initial;
+	color: white;
+	height: 350px;
+	margin-top: 20px;
+	width: 800px;
+	margin-left: 320px;
+}
+body{
+	background-color: #1958E0;
+	color:gold;
+}
+#QuemEu{
+	border: 5px solid white;
+	font-size: 20px;
+	font-family: fantasy;
+	font-style: oblique;
+	font-variant: initial;
+	color: white;
+	width: 700px;
+	margin-left: 150px;
+	padding-left: 420px;
+	padding-right: -800px;
+	height: 700px;
+}
+imagem{
+position: absolute;
+top: 30px;
+left: 1px;
+}
+#spac{
+	position: ;
+	float: both;
+	
+}
+#cortxt{
+	font-size: 20px;
+}
+.gb{
+	font-size: 30px;
+	color: white;
+}
+#for{
+	padding-left: 250px;
+}
