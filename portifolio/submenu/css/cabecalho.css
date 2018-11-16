@@ -1,0 +1,129 @@
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+html{
+	background-color: #2375BE;
+}
+
+body{
+	font:14px/1.5 Arial, Helvetica, sans-serif;
+	padding:0;
+	margin:0;
+}
+
+.cabecalho-submenu{
+	font:13px Arial, Helvetica, sans-serif;
+}
+
+.cabecalho-submenu .cabecalho-liimte{
+	max-width: 1200px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+/* Logo */
+
+.cabecalho-submenu h1{
+	float: left;
+	font: normal 28px Cookie, Arial, Helvetica, sans-serif;
+	line-height: 40px;
+	margin: 0;
+}
+
+.cabecalho-submenu h1 span {
+	color: #bc40df;
+}
+
+/* primeiro menu */
+
+.cabecalho-submenu .cabecalho-primeiro{
+	background-color:#FFBD1F;
+	box-shadow:0 1px 1px #ccc;
+	padding: 20px 40px;
+	height: 80px;
+	color: #ffffff;
+	box-sizing: border-box;
+}
+
+.cabecalho-submenu .cabecalho-primeiro a {
+	color: #ffffff;
+	text-decoration: none;
+}
+.cabecalho-submenu .cabecalho-primeiro nav {
+	font:14px Arial, Helvetica, sans-serif;
+	line-height: 40px;
+	float: left;
+	margin: 0 0 0 60px;
+	padding: 0;
+}
+
+.cabecalho-submenu .cabecalho-primeiro nav a{
+	display: inline-block;
+	padding: 0 5px;
+	opacity: 0.9;
+	text-decoration:none;
+	line-height: 1;
+}
+
+.cabecalho-submenu .cabecalho-primeiro nav a:hover {
+	opacity: 1;
+}
+.cabecalho-submenu .cabecalho-primeiro nav a.selected {
+	border-radius: 2px;
+	background-color: #2B5773;
+	padding: 8px 12px;
+}
+
+.cabecalho-submenu .cabecalho-primeiro .logout-button {
+	font-size: 13px;
+	font-weight: bold;
+	float: right;
+	border-radius: 3px;
+	background-color: rgba(58, 60, 62, 0);
+	height: 40px;
+	padding: 0 20px;
+	border: 1px solid #5E6367;
+	line-height: 40px;
+	box-sizing: border-box;
+}
+
+
+/* segundo menu */
+
+.cabecalho-submenu .cabecalho-segundo {
+	background-color: #ffffff;
+	box-shadow: 1px 3px 3px 0 rgba(0, 0, 0, 0.05);
+	padding: 20px 40px;
+}
+
+.cabecalho-submenu .cabecalho-segundo h2 {
+	line-height: 20px;
+	margin: 0;
+	float: left;
+}
+
+.cabecalho-submenu .cabecalho-segundo h2 a {
+	font-size: 16px;
+	color: #4e5359;
+	text-decoration: none;
+}
+
+.cabecalho-submenu .cabecalho-segundo nav {
+	text-align: right;
+	line-height: 20px;
+	font-size: 16px;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+.cabecalho-submenu .cabecalho-segundo nav a {
+	display: inline-block;
+	color: #4e5359;
+	text-decoration: none;
+}
+
+.cabecalho-submenu .cabecalho-segundo nav i.fa {
+	color: #A9B7BF;
+	margin: 0 4px 0 15px;
+}
+
